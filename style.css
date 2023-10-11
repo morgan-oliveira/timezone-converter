@@ -1,0 +1,13 @@
+#clock {
+    background-color: rgb(101, 186, 214);
+    align-self: center;
+    margin: 15%;
+    font-size: 500%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(101, 186, 214);
+}
