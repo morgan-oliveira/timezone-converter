@@ -10,6 +10,14 @@ html {
     font-family: 'Courier New', Courier, monospace;
 }
 
+#creator {
+    align-self: flex-end;
+    text-align: center;
+    margin-bottom: 0%;
+    margin-top: 25%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .text {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
